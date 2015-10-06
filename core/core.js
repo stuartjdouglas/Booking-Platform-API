@@ -1,12 +1,9 @@
-var server = require('./server');
+var server = require('./server/server.js');
 
 function setupServer() {
-    console.log("Setting up server");
     return server().init;
 }
 
-
 module.exports = {
-
     setupServer: setupServer
 };

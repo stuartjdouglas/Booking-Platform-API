@@ -1,10 +1,4 @@
-function returnfalse() {
-    return true;
-}
-
-returnfalse();
-
-
-var app = require('./core');
+var app = require('./core/core.js');
 
 app.setupServer();
+
