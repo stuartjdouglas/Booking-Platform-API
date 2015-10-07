@@ -7,7 +7,6 @@ var userSchema   = mongoose.Schema({
 var User = mongoose.model('user', userSchema);
 
 function addUser(u, p) {
-   
     var user = new User({
         username: u,
         password: p
