@@ -1,4 +1,8 @@
 # Booking-Platform-API  [![Build Status](https://travis-ci.org/remony/Booking-Platform-API.svg?branch=master)](https://travis-ci.org/remony/Booking-Platform-API)
-Name to be chosen is an Android and node based API Booking platform
+<img src="https://raw.githubusercontent.com/remony/Equipment-Rental-API/develop/data/images/system/baw.png" width="200">
 
-This Repo contains the API backend which powers all the applcations, it also contains the admin client side webapp. 
+Booking Platform API is the API system of my Honours project at University of Dundee.
+
+# Description
+
+> coming soon
